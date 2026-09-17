@@ -2,16 +2,24 @@
 
 Public lecture materials for *Software Programming* (IGS1931), Inha University.
 
-This repo holds **Thursday lecture** notebooks only — no labs, no solution
-keys. One folder per week, e.g. `week02-functions/`. Each notebook is
-meant to be opened and run in Google Colab during its own class, then
-continued locally afterward.
+This repo holds **Thursday lecture** notebooks and take-home **homework**
+assignments — no solution keys. One folder per week for lectures, e.g.
+`week02-functions/`, plus a top-level `homework/` folder for homework
+notebooks. Each lecture notebook is meant to be opened and run in Google
+Colab during its own class, then continued locally afterward.
 
 ## Lectures
 
 | Week | Topic | Notebook |
 |---|---|---|
 | Week 2 | Functions — From Repetition to Reuse | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week02-functions/functions_intro_student.ipynb) |
+| Week 3 | Functions Practice — Building Fluency | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/week03-functions-practice/functions_practice_student.ipynb) |
+
+## Homework
+
+| Week | Topic | Notebook |
+|---|---|---|
+| Week 3 | Functions Homework | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdukarimovhm/software-programming-lectures/blob/main/homework/week03_functions_homework_student.ipynb) |
 
 ## Getting a Working Copy
 
